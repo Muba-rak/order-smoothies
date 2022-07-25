@@ -1,0 +1,17 @@
+// schema
+// mongoose validation
+// mongoose hooks
+// handling Error
+// 1. create custom function with the err as an arg
+
+
+// cookie primer
+// res.setHeader('Set-Cookie', "newUser= true")
+// with npm
+// install cookie-parser
+// require it 
+// res.cookie(firstArg= name, secondArg= value, thirdArg = options object)
+// the options can be 
+// 1. maxAge:  time
+// 2. secure: true
+// 3. httpsOnly: true (cant access from the frontend javaacript)
